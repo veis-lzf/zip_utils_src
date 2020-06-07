@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  simple.cpp
+  zip.cpp
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2228,250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2349,38): warning C4458: “buf”的声明隐藏了类成员
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2272,8): message : 参见“TZip::buf”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2365,15): warning C4458: “writ”的声明隐藏了类成员
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2239,12): message : 参见“TZip::writ”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2424,19): warning C4456: “res”的声明隐藏了上一个本地声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2422,9): message : 参见“res”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2483,27): warning C4458: “buf”的声明隐藏了类成员
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2272,8): message : 参见“TZip::buf”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2650,18): warning C4458: “encbuf”的声明隐藏了类成员
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2247,9): message : 参见“TZip::encbuf”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2561,26): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2582,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2589,30): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2590,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\zip.cpp(2765,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  unzip.cpp
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3516,21): warning C4457: “buf”的声明隐藏了函数参数
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3483,46): message : 参见“buf”的声明
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3764,140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3790,44): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3806,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3808,44): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3865,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(3970,50): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(4021,26): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ZIP压缩与解压开源代码\zip_utils_src\unzip.cpp(4093,3): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+unzip.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  simpleVSW.vcxproj -> E:\ZIP压缩与解压开源代码\zip_utils_src\examples\simple\Debug\simpleW.exe
